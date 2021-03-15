@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/covid python.iml" filepath="$PROJECT_DIR$/.idea/covid python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/covidpython.iml" filepath="$PROJECT_DIR$/.idea/covidpython.iml" />
     </modules>
   </component>
 </project>
